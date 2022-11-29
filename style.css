@@ -43,7 +43,9 @@ h1{
     font-family: "Poppins";
     text-transform: uppercase;
     color: transparent;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 1px whitesmoke;
+    background: linear-gradient(351deg,red,blue);
+    -webkit-background-clip: text;
 }
 #style{
     font-family: "Poppins";
